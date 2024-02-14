@@ -5,7 +5,7 @@
 
 
 <!-- Tech icons -->
-<div align="center" style="font-size: 2rem">
+<div align="center" style="font-size: 6rem">
   <!-- Skills icons -->
   <h2>Skills</h2>
   <p align="center">
