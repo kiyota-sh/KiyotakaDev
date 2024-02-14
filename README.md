@@ -8,9 +8,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img align="right" width="200" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
-
 ```
   💻 I'm a self tought Full Stack Developer :D 
   🔭 I’m currently working on a mobile app. 
@@ -19,8 +16,6 @@
   💖 In love with lofi, metal and JPOP music. 
   🔥 Also learning Japanese. 
 ```
-
-</div>
 
 <br/>
 
