@@ -21,19 +21,12 @@
   🔥 Also learning Japanese. 
 ``` -->
 
-<!-- ## 💻 I'm a self tought Full Stack Developer :D 
+## 💻 I'm a self tought Full Stack Developer :D 
 ## 🔭 I’m currently working on a mobile app. 
 ## 🌱 I’m currently learning Flutter, .NET. 
 ## 🧠 Strongly immersed in learing.
 ## 💖 In love with lofi, metal and JPOP music. 
-## 🔥 Also learning Japanese.  -->
-
-- 💻 I'm a self tought Full Stack Developer :D 
-- 🔭 I’m currently working on a mobile app. 
-- 🌱 I’m currently learning Flutter, .NET. 
-- 🧠 Strongly immersed in learing.
-- 💖 In love with lofi, metal and JPOP music. 
-- 🔥 Also learning Japanese.
+## 🔥 Also learning Japanese.
 
 <hr>
 
