@@ -8,17 +8,19 @@
   </p>
 </div>
 
-<img align="left" style="object-fit: cover" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg" width="300" />
-<hr>
-```
-💻 I'm a self tought Full Stack Developer :D
-🔭 I’m currently working on a mobile app.
-🌱 I’m currently learning Flutter, .NET.
-🧠 Strongly immersed in learing.
-💖 In love with lofi, metal and JPOP music.
-🔥 Also learning Japanese.
-```
-<hr>
+<div align="center">
+  <img align="left" style="object-fit: cover" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg" width="200" />
+
+  ```
+  💻 I'm a self tought Full Stack Developer :D
+  🔭 I’m currently working on a mobile app.
+  🌱 I’m currently learning Flutter, .NET.
+  🧠 Strongly immersed in learing.
+  💖 In love with lofi, metal and JPOP music.
+  🔥 Also learning Japanese.
+  ```
+</div>
+
 <br/>
 
 <!-- Tech icons -->
