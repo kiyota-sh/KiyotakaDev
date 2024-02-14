@@ -9,7 +9,7 @@
 </div>
 
 
-<img align="right" width="220" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg" alt="icon"/>
+<img align="right" width="300" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg" alt="icon"/>
 <hr>
 
 <!-- ```
