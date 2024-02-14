@@ -8,22 +8,18 @@
   </p>
 </div>
 
-<div style="display: flex; align-items: flex-start">
+<div align="center">
+  <img align="right" width="200" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
 
-  <div style="flex: 1;">
-    <img style="object-fit: cover; height: auto; width: 100%;" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
-  </div>
+```
+  💻 I'm a self tought Full Stack Developer :D 
+  🔭 I’m currently working on a mobile app. 
+  🌱 I’m currently learning Flutter, .NET. 
+  🧠 Strongly immersed in learing.
+  💖 In love with lofi, metal and JPOP music. 
+  🔥 Also learning Japanese. 
+```
 
-  <div style="flex: 1; justify-content: center; align-items: center; background-color: white;">
-    <p>
-      💻 I'm a self tought Full Stack Developer :D <br>
-      🔭 I’m currently working on a mobile app. <br>
-      🌱 I’m currently learning Flutter, .NET. <br>
-      🧠 Strongly immersed in learing. <br>
-      💖 In love with lofi, metal and JPOP music. <br>
-      🔥 Also learning Japanese. <br>
-    </p>
-  </div>
 </div>
 
 <br/>
