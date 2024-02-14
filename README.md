@@ -36,7 +36,7 @@
 
   <br/>
 
-  <h2>Learning</h2>
+  <h1>Learning</h1>
   <!-- Learning icons-->
   <p align="center">
     <a href="https://skillicons.dev">
