@@ -5,7 +5,7 @@
 
 
 <!-- Tech icons -->
-<div align="center" style="color: #00FFF0">
+<div align="center" style="font-size: 2rem">
   <!-- Skills icons -->
   <h2>Skills</h2>
   <p align="center">
@@ -13,6 +13,8 @@
       <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,threejs,nodejs,express,mongodb,postgres,git,github,vscode&perline=7">
     </a>
   </p>
+
+  <br/>
 
   <h2>Learning</h2>
   <!-- Learning icons-->
