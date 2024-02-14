@@ -8,10 +8,10 @@
   </p>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start">
 
   <div style="flex: 1;">
-    <img style="object-fit: cover; width: 100%;" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
+    <img style="object-fit: cover; height: auto; width: 100%;" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
   </div>
 
   <div>
