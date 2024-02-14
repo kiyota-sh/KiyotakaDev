@@ -27,7 +27,7 @@
 <!-- Tech icons -->
 <div align="center">
   <!-- Skills icons -->
-  <h2>Skills</h2>
+  <h1>Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,threejs,nodejs,express,mongodb,postgres,git,github,vscode&perline=7">
