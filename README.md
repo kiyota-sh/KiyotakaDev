@@ -1,8 +1,23 @@
 <div align="center">
   <h1 aligh="center">Hi, I'm <b>KiyotakaDev</b>😁</h1>
-  <img src="https://w.wallhaven.cc/full/jx/wallhaven-jxyopy.png" />
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=38&duration=3500&pause=500&color=EC1699&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Learning+lover;%E3%81%8D%E3%82%88%E3%81%9F%E3%81%8B+%7C+%E3%81%8D%E3%82%88%E3%81%9F%E3%82%8D" alt="Typing SVG" /></a>
+  </p>
+  <img align="left" style="object-fit: cover" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg" width="300" />
+  <!-- **KiyotakaDev/KiyotakaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+  ```
+  - 💻 I'm a self tought Full Stack Developer :D
+  - 🔭 I’m currently working on a mobile app.
+  - 🌱 I’m currently learning Flutter, .NET.
+  - 🧠 Strongly immersed in learing.
+  - 💖 In love with lofi, metal and JPOP music.
+  - 🔥 Also learning Japanese.
+  ```
 </div>
 
+<br/>
 
 <!-- Tech icons -->
 <div align="center">
@@ -25,17 +40,16 @@
   </p>
 </div>
 
-<!--
-**KiyotakaDev/KiyotakaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cs
+  class Program
+  {
+    static void Main()
+    {
+      hello
+    }
+  }
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+
+ 
