@@ -11,11 +11,11 @@
 <div style="display: flex;">
 
   <div style="flex: 1;">
-    <img align="left" style="object-fit: cover; width: 100%;" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
+    <img style="object-fit: cover; width: 100%;" src="https://i.pinimg.com/564x/46/8a/99/468a9954de2ac7efd2c5edb612f477a0.jpg"/>
   </div>
 
   <div>
-  
+
 ```
 💻 I'm a self tought Full Stack Developer :D
 🔭 I’m currently working on a mobile app.
