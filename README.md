@@ -22,8 +22,8 @@
 ``` -->
 
 ## 💻 I'm a self tought Full Stack Developer :D 
-## 🔭 I’m currently working on a mobile app. 
-## 🌱 I’m currently learning Flutter, .NET. 
+## 🔭 I’m currently working on a mobile app.
+## 🌱 I’m currently learning .NET and Flutter. 
 ## 🧠 Strongly immersed in learing.
 ## 💖 In love with lofi, metal and JPOP music. 
 ## 🔥 Also learning Japanese.
@@ -46,7 +46,7 @@
   <!-- Learning icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,firebase,unity,py,prisma&perline=7">
+      <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,cs,dotnet,py,dart,flutter&perline=7">
     </a>
   </p>
 </div>
