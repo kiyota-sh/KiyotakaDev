@@ -38,7 +38,7 @@
   <h1>Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,threejs,nodejs,express,mongodb,postgres,git,github,vscode,prisma&perline=7">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,threejs,nodejs,express,postgres,git,github,vscode,prisma&perline=7">
     </a>
   </p>
 
