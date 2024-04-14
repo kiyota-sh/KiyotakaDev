@@ -46,7 +46,7 @@
   <!-- Learning icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arch,bash,c,cs,dotnet,linux&perline=7">
+      <img src="https://skillicons.dev/icons?i=arch,bash,c,cs,dotnet,dart,flutter&perline=7">
     </a>
   </p>
 
@@ -54,7 +54,7 @@
   <!-- interested icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,unity,py,firebase&perline=7">
+      <img src="https://skillicons.dev/icons?i=cpp,linux,unity,py,firebase&perline=7">
     </a>
   </p>
 </div>
