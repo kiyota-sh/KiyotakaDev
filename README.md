@@ -50,7 +50,7 @@
     </a>
   </p>
 
-  <h1>Interested</h1>
+  <h1>Interested in</h1>
   <!-- interested icons-->
   <p align="center">
     <a href="https://skillicons.dev">
