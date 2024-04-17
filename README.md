@@ -23,7 +23,7 @@
 
 ## 💻 I'm a tenacious self tought Full Stack Developer :D 
 <!-- ## 🔭 I’m currently working on a mobile app. -->
-## 🌱 I’m currently learning Bash, C, C++ and linux kernel. 
+## 🌱 I’m currently learning Bash, C, C++ and about linux kernel. 
 ## 🧠 Strongly immersed in learing.
 ## 🎵 In love with lofi, metal and JPOP music. 
 ## 🀄 Also learning Japanese.
