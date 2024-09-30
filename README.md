@@ -38,7 +38,7 @@
   <h1>Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,threejs,nodejs,express,postgres,git,github,vscode,prisma,cs,dotnet&perline=7">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,postgres,git,github,md,vscode,prisma,bash,vim,neovim&perline=7">
     </a>
   </p>
 
@@ -46,7 +46,7 @@
   <!-- Learning icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,vim,neovim&perline=7">
+      <img src="https://skillicons.dev/icons?i=linux,arch,c,cpp&perline=7">
     </a>
   </p>
 
@@ -54,7 +54,7 @@
   <!-- interested icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,py,firebase,dart,flutter&perline=7">
+      <img src="https://skillicons.dev/icons?i=wasm,py,cs,net&perline=7">
     </a>
   </p>
 </div>
