@@ -23,7 +23,7 @@
 
 ## 💻 I'm a tenacious self tought Full Stack Developer :D 
 <!-- ## 🔭 I’m currently working on a mobile app. -->
-## 🌱 I’m currently learning Bash, C, C++ and about linux kernel. 
+## 🌱 I’m currently learning assembly. 
 ## 🧠 Strongly immersed in learing.
 ## 🎵 In love with lofi, metal and JPOP music. 
 ## 🀄 Also learning Japanese.
@@ -34,11 +34,19 @@
 
 <!-- Tech icons -->
 <div align="center">
-  <!-- Skills icons -->
-  <h1>Skills</h1>
+  <!-- Web Skills icons -->
+  <h1>Web Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,postgres,git,github,md,vscode,prisma,bash,vim,neovim&perline=7">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,laravel,express,postgres,prisma,git,github,md,postman&perline=7">
+    </a>
+  </p>
+
+  <!-- Other Skills icons -->
+  <h1>Other Skills</h1>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,bash,neovim,vscode&perline=7">
     </a>
   </p>
 
@@ -46,15 +54,17 @@
   <!-- Learning icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,arch,c,cpp&perline=7">
+      <img src="https://skillicons.dev/icons?i=linux,regex&perline=7">
     </a>
   </p>
 
+  <!-- 
   <h1>Interested in</h1>
-  <!-- interested icons-->
+  !-- interested icons --
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=wasm,py,cs,net&perline=7">
     </a>
   </p>
+  -->
 </div>
