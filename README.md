@@ -38,7 +38,7 @@
   <h1>Web Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,laravel,express,postgres,prisma,git,github,md,postman&perline=7">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,express,postgres,git,github,md,postman&perline=7">
     </a>
   </p>
 
@@ -46,7 +46,7 @@
   <h1>Other Skills</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,bash,neovim,vscode&perline=7">
+      <img src="https://skillicons.dev/icons?i=c,cpp,bash,neovim,vscode&perline=7">
     </a>
   </p>
 
